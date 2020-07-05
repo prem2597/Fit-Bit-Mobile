@@ -1,0 +1,30 @@
+fit
+my-project
+node_modules
+docs
+package-lock.json
+backend
+fitbit/node_modules/**/*
+fitbit/.expo/*
+fitbit/npm-debug.*
+fitbit/*.jks
+fitbit/*.p8
+fitbit/*.p12
+fitbit/*.key
+fitbit/*.mobileprovision
+fitbit/*.orig.*
+fitbit/web-build/
+
+# macOS
+fitbit/.DS_Store
+
+Untitled Document 1
+
+fitbit/assets
+fitbit/.expo-shared
+fitbit/Screen1.js
+fitbit/screen2.js
+
+fitbit/config.js
+
+fitbit/babel.config.js
